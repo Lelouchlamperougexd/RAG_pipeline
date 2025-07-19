@@ -1,0 +1,5 @@
+/backend/__pycache__
+/backend/feedback_store.jsonl
+/frontend/node_modules
+/frontend/package-lock.json
+/frontend/package.json
